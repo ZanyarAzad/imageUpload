@@ -43,7 +43,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or questions, please contact [your email address].
+For any inquiries or questions, please contact [zanyar.5601@gmail.com].
 
 ---
 
